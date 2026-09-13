@@ -31,7 +31,6 @@ That's it. No install, no build step, no server. Sound starts on first input (br
 | **WASD** | Move |
 | **Mouse** | Aim · **Hold LMB** to fire |
 | **Shift** | Sprint |
-| **Space** | **Dash** — 2 charges, 9s recharge, brief invulnerability frames |
 | **E** (hold) | Plant / arm the charge · transfer through vents |
 | **R** | Reload |
 | **1–5** | Select weapon: PISTOL · SMG · SHOTGUN · RIFLE · MAGRAIL |
@@ -49,11 +48,8 @@ That's it. No install, no build step, no server. Sound starts on first input (br
 
 **15 hostile classes.** Sentries, roamers, snipers, heavies, shield bearers, medics that heal what you wound, pyros, spitters, sappers, EMP-firing techs — and DRONES, quad-rotor hunter-killers that weave in and dart at you. Deck 08 hides **SUBJECT NULL**, a three-phase apex boss. High-value targets have personalities: the CURATOR releases drone swarms below half health, the KEYHOLDER seals the vents, the FOREMAN rolls with shield bodyguards.
 
-**Medals & rank progression.** 24 commendations — from FIRST BLOOD and UNTOUCHABLE to GUN FU, PHANTOM STEP, and CAMPAIGN COMPLETE — displayed in an in-game medal case. Every run pays out XP with a full debrief breakdown; climb the ranks from R-01 up.
-
 **Style scoring.** The game pays aggression: close-range kills, knife kills, swap combos, and multi-kill chains all feed the rating. Chain three kills and time dilates — kill-chains trigger slow-motion with muffled audio, and the breach moment itself does too.
 
-**The dance button.** SPACE dash with i-frames, pip-charges under your operative. Dodge the slasher's lunge, sidestep the pyro's flame lock, dash through the blast wave.
 
 **Staged climax.** The moment the charge is armed, the deck changes: a counter-assault wave at 20 seconds, the final rush at 10, fire crawling toward the charge, red strobe. Win it standing.
 
